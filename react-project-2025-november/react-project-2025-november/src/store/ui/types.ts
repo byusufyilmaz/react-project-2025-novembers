@@ -1,0 +1,5 @@
+export default {
+  UPDATE_PROGRESS: 'UPDATE_PROGRESS',
+
+  ERROR_TOASTR: 'ERROR_TOASTR',
+};
